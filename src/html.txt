@@ -1,0 +1,180 @@
+<!DOCTYPE html>
+<html>
+
+<head lang="en">
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>Octodex</title>
+  <link rel="stylesheet" href="/screen.css">
+</head>
+
+<body>
+  <header>
+    <p class="logo"><img class="header-logo" src="https://octodex.github.com/ui/logo.png"></p>
+    <nav>
+      <ul>
+        <li><a href="http://feeds.feedburner.com/Octocats" target="_blank">RSS</a></li>
+        <li><a href="https://octodex.github.com/faq.html" target="_blank">FAQ</a></li>
+        <li><a href="https://github.com/" target="_blank">Back to GitHub</a></li>
+      </ul>
+    </nav>
+  </header>
+
+  <main>
+    <article class="cat-element">
+      <div class="top-image">
+        <img class="main-image" src="/images/scubatocat.png">
+      </div>
+      <div class="image-footer">
+        <p class="number">#1</p>
+        <p>the <a href="https://octodex.github.com/scubatocat">Scubatocat </a>by <img class="author-icon" src="https://avatars1.githubusercontent.com/u/19292210?v=4"></p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/tentocats.jpg">
+      </div>
+      <div class="image-footer">
+        <p class="number">#2</p>
+        <p>the <a href="https://octodex.github.com/tentocat">Tentocats </a>by <img class="author-icon" src="https://avatars3.githubusercontent.com/u/20049049?v=4">
+          <img class="author-icon" src="https://avatars1.githubusercontent.com/u/4226949?v=4"> <img class="author-icon"
+            src="https://avatars1.githubusercontent.com/u/19292210?v=4"></p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/saint_nictocat.jpg">
+      </div>
+      <div class="image-footer">
+        <p class="number">#3</p>
+        <p>the <a href="https://octodex.github.com/saint_nictocat">Saint Nictocat </a>by <img class="author-icon" src="https://avatars3.githubusercontent.com/u/20049049?v=4"></p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/dinotocat.png">
+      </div>
+      <div class="image-footer">
+        <p class="number">#4</p>
+        <p>the <a href="https://octodex.github.com/dinotocat">Dinotocat </a>by <img class="author-icon" src="https://avatars2.githubusercontent.com/u/11401067?v=4">
+          <img class="author-icon" src="https://avatars3.githubusercontent.com/u/20049049?v=4"> </p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/bannekat.png">
+      </div>
+      <div class="image-footer">
+        <p class="number">#5</p>
+        <p>the <a href="https://octodex.github.com/bannekat">Benjamin Bannekat </a>by <img class="author-icon" src="https://avatars3.githubusercontent.com/u/20049049?v=4">
+          <img class="author-icon" src="https://avatars1.githubusercontent.com/u/4226949?v=4"> <img class="author-icon"
+            src="https://avatars1.githubusercontent.com/u/1300064?v=4"></p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/catstello.png">
+      </div>
+      <div class="image-footer">
+        <p class="number">#6</p>
+        <p>the <a href="https://octodex.github.com/catstello">Catstello </a>by <img class="author-icon" src="https://avatars1.githubusercontent.com/u/1300064?v=4"></p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/skatetocat.png">
+      </div>
+      <div class="image-footer">
+        <p class="number">#7</p>
+        <p>the <a href="https://octodex.github.com/skatetocat">Skatetocat </a>by <img class="author-icon" src="https://avatars0.githubusercontent.com/u/7002940?v=4"></p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/mcefeeline.jpg">
+      </div>
+      <div class="image-footer">
+        <p class="number">#8</p>
+        <p>the <a href="https://octodex.github.com/mcefeeline">McEfeeline </a>by <img class="author-icon" src="https://avatars1.githubusercontent.com/u/1300064?v=4"></p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/gobbleotron.gif">
+      </div>
+      <div class="image-footer">
+        <p class="number">#9</p>
+        <p>the <a href="https://octodex.github.com/gobbleotron">Gobble-o-tron </a>by <img class="author-icon" src="https://avatars1.githubusercontent.com/u/4226949?v=4">
+          <img class="author-icon" src="https://avatars1.githubusercontent.com/u/1300064?v=4"></p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/luchadortocat.png">
+      </div>
+      <div class="image-footer">
+        <p class="number">#10</p>
+        <p>the <a href="https://octodex.github.com/luchadortocat">Luchadortocat </a>by <img class="author-icon" src="https://avatars0.githubusercontent.com/u/2053865?v=4">
+          <img class="author-icon" src="https://avatars1.githubusercontent.com/u/4226949?v=4"></p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/mummytocat.gif">
+      </div>
+      <div class="image-footer">
+        <p class="number">#11</p>
+        <p>the <a href="https://octodex.github.com/mummytocat">Mummytocat </a>by <img class="author-icon" src="https://avatars1.githubusercontent.com/u/1300064?v=4"></p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/daftpunktocat-guy.gif">
+      </div>
+      <div class="image-footer">
+        <p class="number">#12</p>
+        <p>the <a href="https://octodex.github.com/daftpunktocat-guy">Daftpunktocat-Guy </a>by <img class="author-icon"
+            src="https://avatars0.githubusercontent.com/u/2053865?v=4"></p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/herme-t-crabb.png">
+      </div>
+      <div class="image-footer">
+        <p class="number">#13</p>
+        <p>the <a href="https://octodex.github.com/nemesis">Nemesis </a>by <img class="author-icon" src="https://avatars1.githubusercontent.com/u/72919?v=4"></p>
+      </div>
+    </article>
+
+    <article class="cat-element">
+      <div>
+        <img class="main-image" src="/images/octocat-de-los-muertos.jpg">
+      </div>
+      <div class="image-footer">
+        <p class="number">#14</p>
+        <p>the <a href="https://octodex.github.com/octocat-de-los-muertos">Octocat De Los Muertos </a>by <img class="author-icon"
+            src="https://avatars1.githubusercontent.com/u/72919?v=4"></p>
+      </div>
+    </article>
+  </main>
+
+  <footer>
+    <p class="footer-logo"><img src="https://octodex.github.com/ui/logo.png"></p>
+  </footer>
+
+</body>
+
+</html>
